@@ -1,0 +1,31 @@
+/* jcStyleForm.css */
+
+#formContainer {
+    width: 40%;
+    margin: auto;
+}
+
+#formc {
+    width: 100%;
+}
+
+.rows {
+    width: 100%;
+    display: block;
+}
+
+.column {
+    width: 100%;
+    display: inline-block;
+
+}
+
+.theLabels {
+    width: 30%;
+    float: left;
+}
+
+.theInputs {
+    width: 50%;
+    float: right;
+}
